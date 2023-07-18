@@ -1,0 +1,29 @@
+*{padding: 10%;
+text-align: center;   
+}
+      .one {
+          border: 2px solid black;
+          border-radius: 10%;
+        }
+        
+        .two {
+          border: 4px dotted blue;
+          border-radius: 10%;
+        }
+        
+        .three {
+          border: 3px dashed red;
+          border-radius: 10%;
+        }
+        .four{
+          border: 5px double purple;
+          border-radius: 10%;
+        }
+        .five{
+          border: 6px groove yellowgreen;
+          border-radius: 10%;
+        }
+        .six{
+          border: 7px ridge yellow;
+          border-radius: 10%;
+        }
